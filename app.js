@@ -17,12 +17,8 @@ while (i <=6) {
    
 }
 console.log("Total is:"+ j); // While Loop
-    
-const text = document.querySelector(".title");
 
-text.classList.add("change"); //Change css with JS
 
-onsole.log("Total is:"+ j); // While Loop
     
 const text = document.querySelector(".title");
 
